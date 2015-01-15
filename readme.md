@@ -3,13 +3,14 @@ The scientific software is for the numerical decision of the research problem of
 The main project objective was to define potentially dangerous for the Earth asteroids from the Aton’s group and create the catalog of orbital evolution for them on a time interval from 2009 to 2200.
 
 ### Used technologies and tools ###
-- Basic: C++, WinAPI/MFC, Visual Studio 2008
-- Database: MS SQL Server 2008 Express
-- Graphics: OpenGL
+* Basic: C++, WinAPI/MFC, Visual Studio 2008
+* Database: MS SQL Server 2008 Express
+* Graphics: OpenGL
+
 
 ### Requires ###
-- MFC framework
-- opengl: "glut, glaux, glew" libs
+* MFC framework
+* opengl: "glut, glaux, glew" libs
 
 ### Some problems ###
 - if you work in Visual Studio 2013, you can get next error: "error MSB8031: Building an MFC project for a non-Unicode character...."
