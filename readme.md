@@ -4,6 +4,7 @@ The main project objective was to define potentially dangerous for the Earth ast
 
 #See demonstration video:#
  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3UbdscY4MOM/0.jpg)](http://www.youtube.com/watch?v=3UbdscY4MOM)
+
 ### Used technologies and tools ###
 * Basic: C++, WinAPI/MFC, Visual Studio 2013
 * Graphics: OpenGL
